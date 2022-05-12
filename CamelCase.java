@@ -16,6 +16,7 @@ public class CamelCase {
 		System.out.println("Value of d:"+d);
 		double e=a;
 		System.out.println("Value of e:"+e);
+		System.out.println("Hello");
 		System.out.println("\n");
 		System.out.println("Explicit type casting");
 	  //Explicit Conversion
