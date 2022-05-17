@@ -30,7 +30,7 @@ public class Calcimain {
 		
 		float divResult = cal.division(calVO.getFirstNumber(), calVO.getSecondNumber());
 		System.out.println("Division Result ="+divResult);
-
+        scan.close();
 	}
 
 }
